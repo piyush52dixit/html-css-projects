@@ -1,6 +1,6 @@
 # Projects
 
- ##Below is a list of all the projects with their corresponding live links.
+ ## Below is a list of all the projects with their corresponding live links.
 
 | Project Name              | Link                                                |
 | ------------------------- | --------------------------------------------------- |
