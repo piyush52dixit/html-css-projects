@@ -1,6 +1,6 @@
 # Projects
 
-This repository contains a collection of various web development projects. Below is a list of all the projects with their corresponding live links.
+ ##Below is a list of all the projects with their corresponding live links.
 
 | Project Name              | Link                                                |
 | ------------------------- | --------------------------------------------------- |
