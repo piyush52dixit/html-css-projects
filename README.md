@@ -6,7 +6,7 @@ This repository contains a collection of various web development projects. Below
 | ------------------------- | --------------------------------------------------- |
 | Clock                     | [Clock](https://piyush52dixit-clock1.netlify.app/)   |
 | Groww Clone               | [Groww Clone](https://piyush52dixit-groww.netlify.app/) |
-| Pension Box Clone         | [Pension Box Clone](https://piyush52dixit-pensionbox.netlify.app/) |
+| Pension Box Clone         | [Pension Box Clone](https://pension-box-clone.netlify.app/) |
 | UrbanPlate                | [UrbanPlate](https://piyush52dixit-urbanplate.netlify.app/) |
 | Dombox                    | [Dombox](https://piyush52dixit-dombox.netlify.app/)  |
 | OmniFood                  | [OmniFood](https://piyush52dixit-omnifood.netlify.app/) |
